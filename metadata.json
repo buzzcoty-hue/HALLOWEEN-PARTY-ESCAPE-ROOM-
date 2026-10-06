@@ -1,0 +1,6 @@
+{
+  "name": "Aura Dental Studio & Booking Platform",
+  "description": "Premium modern dental clinic with intelligent online appointment scheduling and administrative practice dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
